@@ -1,0 +1,13 @@
+.search{
+    margin-top: 10px;
+    width: 50%;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    border: none;
+}
+.search:focus{
+    outline: none;
+}

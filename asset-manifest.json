@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anime-roledx/static/css/main.bf3de13e.chunk.css",
+    "main.js": "/anime-roledx/static/js/main.98c93d0b.chunk.js",
+    "main.js.map": "/anime-roledx/static/js/main.98c93d0b.chunk.js.map",
+    "runtime-main.js": "/anime-roledx/static/js/runtime-main.e53d22d5.js",
+    "runtime-main.js.map": "/anime-roledx/static/js/runtime-main.e53d22d5.js.map",
+    "static/js/2.9ada678b.chunk.js": "/anime-roledx/static/js/2.9ada678b.chunk.js",
+    "static/js/2.9ada678b.chunk.js.map": "/anime-roledx/static/js/2.9ada678b.chunk.js.map",
+    "index.html": "/anime-roledx/index.html",
+    "precache-manifest.3a4325299ffc4bb5a431b223a69dffd1.js": "/anime-roledx/precache-manifest.3a4325299ffc4bb5a431b223a69dffd1.js",
+    "service-worker.js": "/anime-roledx/service-worker.js",
+    "static/css/main.bf3de13e.chunk.css.map": "/anime-roledx/static/css/main.bf3de13e.chunk.css.map",
+    "static/js/2.9ada678b.chunk.js.LICENSE.txt": "/anime-roledx/static/js/2.9ada678b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53d22d5.js",
+    "static/js/2.9ada678b.chunk.js",
+    "static/css/main.bf3de13e.chunk.css",
+    "static/js/main.98c93d0b.chunk.js"
+  ]
+}
